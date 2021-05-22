@@ -1,0 +1,207 @@
+body{
+    background-image: url("https://res.cloudinary.com/dbmagka0m/image/upload/v1620811119/bg-header-desktop_efpkvr.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+  
+  }
+  .header{
+    margin-top: 5%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 0px;
+  }
+  
+  .logo{
+    width: 100px;
+    height: 100px;
+  }
+  h1{
+    font-family: bai jamjuree;
+    font-size: 40px;
+  }
+  p{
+    color: hsl(201deg 7% 66%);
+    font-family: bai jamjuree;
+    font-size: 20px;
+    }
+  
+  .ios{
+    background-color: hsl(171, 66%, 44%);
+    box-shadow: 0px 3px 0px hsl(168deg 52% 39%);
+    font-family: bai jamjuree;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    padding-right: 6%;
+    padding-left: 6%;
+    color: white;
+    font-weight:550;
+    border-radius: 25px;
+    border: none;
+    margin-right: 3%;
+  
+  }
+  .mac{
+    background-color: hsl(233, 100%, 69%);
+    box-shadow: 0px 3px 0px hsl(233deg 65% 59%);
+    font-family: bai jamjuree;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    padding-right: 6%;
+    padding-left: 6%;
+    color: white;
+    font-weight:550;
+    border-radius: 25px;
+    border: none;
+  }
+  .title-buttons{
+    margin-top: 5%;
+  }
+  .title{
+    margin-top: 7.5%;
+  }
+  
+  .snippetstext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 45%;
+    margin-left: 27%;
+    margin-top: 15%;
+  
+  
+  }
+  
+  .com-title{
+    font-family: bai jamjuree;
+    font-size: 28px;
+  }
+  
+  .com-p{
+    font-size: 18px;
+  }
+  .computer{
+    display: flex;
+    margin-top: 3%;
+  }
+  
+  .img-comp{
+    height: 120%;
+    margin-left: -17%;
+  
+  }
+  
+  .computer-text{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    margin-left: 9%;
+    margin-top: 6%;
+  }
+  
+  h4{
+    font-family: bai jamjuree;
+    font-size: 19px;
+  }
+  .access-text{
+    text-align: center;
+    width: 50%;
+     margin-left: 25%;
+  }
+  
+  .access{
+    margin-top: 15%;
+   
+  }
+  .img-acc{
+    width: 80%;
+    margin-left: 9%;
+  }
+  
+  .supercharge{
+    text-align: center;
+  
+  }
+  .mini-workflow{
+    display: flex;
+    margin-left: 3%;
+    margin-top: 6%;
+    
+  }
+  .blacklist{
+    text-align: center;
+    
+  }
+  .snippets-text{
+    text-align: center;
+    margin-left: -9%;
+    
+  }
+  .preview{
+    text-align: center;
+    
+  }
+  .companies{
+    display: flex;
+    margin-top: 8%;
+  }
+  .comp-img{
+    margin-left: 7%;
+    
+  }
+  .ios-mac{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+  }
+  footer{
+    background: rgba(0, 0, 0, .03);
+    display: flex;
+    margin-top: 12%;
+    padding-bottom: 3%;
+    margin-left: -7px;
+    padding-top: 3%;
+    padding-left: 5%;
+  }
+  .foot-links{
+    display: flex;
+  }
+  .socials{
+    display: flex;
+    margin-left: 37%;
+   
+    
+  }
+  .social-img{
+    margin-right: 20px;
+  
+  }
+  li{
+      text-decoration: none;
+      font-size: 20px;
+      font-family: 'Bai Jamjuree';
+      font-weight: 550;
+      padding-bottom: 30px;
+      
+  }
+  a{
+    color: hsl(210, 3%, 54%);
+    text-decoration: none;
+  
+  }
+  ul{
+    list-style-type: none;
+  }
+  .ending{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    background: rgba(0, 0, 0, .03);
+    margin-top: 0%;
+  }
